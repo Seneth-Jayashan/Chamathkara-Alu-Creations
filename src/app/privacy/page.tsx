@@ -57,8 +57,8 @@ export default function PrivacyPolicy() {
 
               <h2 className="text-3xl font-bold mb-6 text-foreground dark:text-white uppercase tracking-wider">5. Contact Us</h2>
               <p className="text-[var(--color-silver-metal)] text-lg leading-relaxed font-light">
-                If you have any questions about this Privacy Policy, please contact us at: <br/><br/>
-                <strong className="text-foreground dark:text-white">Email:</strong> info@caclanka.com <br/>
+                If you have any questions about this Privacy Policy, please contact us at: <br /><br />
+                <strong className="text-foreground dark:text-white">Email:</strong> chamathkaraalu@gmail.com <br />
                 <strong className="text-foreground dark:text-white">Phone:</strong> 0772 960 591 / 077 1375 422
               </p>
             </div>
