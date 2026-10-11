@@ -72,7 +72,7 @@ export default function ContactClient() {
                   <div>
                     <h3 className="text-xl font-bold mb-2 text-foreground dark:text-white uppercase tracking-wider">Email</h3>
                     <p className="text-[var(--color-silver-metal)] font-light leading-relaxed">
-                      cac@gmail.com
+                      chamathkaraalu@gmail.com
                     </p>
                   </div>
                 </div>
